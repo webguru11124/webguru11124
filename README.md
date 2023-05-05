@@ -3,12 +3,9 @@
 <div color="green" align="center"> Full-Stack web developer </div>
 
 ---
-
-- 🔭 I'm currently working on React and Next app
-- 🌱 I'm currently learning Nuxt, NEST, FastApi
-- 👯 I'm looking to collaborate on Skype
-- 🤔 I'm looking for help with Microservices
-- 💬 Ask me about python(Django), php(Laravel), javascript(Vue, React)
+- 🔭 I'm excellent in React, Vue and Angluar
+- 🌱 I'm good at Backend using laravel, express and Django
+- 🤔 I'm looking for job in Web development
 - 😄 Pronouns: He/His
 
 ---
