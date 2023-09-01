@@ -45,7 +45,7 @@
   <p>Let's chat and make some coding magic!</p>
 </div>
 
-<br clear="both">
+<hr/>
 
 
 ###
@@ -61,7 +61,6 @@
 <img align="right" height="229" src="https://miro.medium.com/v2/resize:fit:720/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
 ###
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -170,7 +169,7 @@
 </div>
 
 ###
-<br clear="both">
+<hr/>
 
 <br clear="both">
 
