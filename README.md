@@ -15,7 +15,7 @@
 
 <div align="center">
   <h3>💡 Let's Create Magic Together!</h3>
-  <p>Let's chat and make some coding magic!</p>
+  <p>Let's chat and make some coding magic! <a href="https://github.com/webguru11124/webguru11124/issues/new?title=I+want+to+hire+you&body=Hi,+@byteballet.+Send+me+your+resume:+your@companymail.com.">Hire me</a> or <a href="https://github.com/webguru11124/webguru11124/issues/new?title=I+want+to+talk+to+you&body=Hi,+@byteballet."> Chat me</a></p>
 </div>
 <style >
   .row {
