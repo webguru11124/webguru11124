@@ -13,18 +13,15 @@
     <h3 align="center">🌐 Multilingual Developer</h3>
 </div>
 
-
-  <h3>💡 Let's Create Magic Together!</h3>
-
 <div align="center">
-  <h3>📬 Connect with Me</h3>
+  <h3>💡 Let's Create Magic Together!</h3>
   <p>Let's chat and make some coding magic!</p>
 </div>
-<style>
+<style >
   .row {
     display: flex;
     justify-content: center; /* Center items horizontally */
     align-items: center; /* Center items vertically */
 }
 
-  </style>
+</style>
