@@ -4,7 +4,7 @@
   <h2>🚀 Hey there, I'm Senior Software Engineer</h2>
   <p>A coding 🐱‍👤 with a passion for crafting extraordinary digital experiences.</p>
 </div>
-<div class="row">
+<div style="display: flex; justify-content: center; align-items: center;">
     <h3 align="center">🎨 Frontend Maestro</h3>
     <h3 align="center">🌐 Backend Virtuoso</h3>
     <h3 align="center">☁️ Cloud Architect</h3>
